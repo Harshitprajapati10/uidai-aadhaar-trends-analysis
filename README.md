@@ -5,7 +5,7 @@
 
 ## Hackathon
 UIDAI Data Science Hackathon
-
+[Event Website](https://event.data.gov.in/challenge/uidai-data-hackathon-2026/)
 ---
 
 ## 1. Problem Statement and Approach
